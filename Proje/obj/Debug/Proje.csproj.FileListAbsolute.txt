@@ -1,0 +1,56 @@
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\bin\Debug\Proje.exe.config
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\bin\Debug\Proje.exe
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\bin\Debug\Proje.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmAdminPaneli.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmFilmYonetimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmGiris.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmGiseSatis.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmKayitOl.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmPersonelPaneli.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmPersonelYonetimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmRaporlar.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmSeansYonetimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.exe
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\bin\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\bin\Debug\CineTech.Library.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.exe.config
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmAnaSayfa.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmFilmDetay.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmKoltukSecimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmOdeme.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmProfilim.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.frmSalonDurumu.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\bin\Debug\Proje.exe.config
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\bin\Debug\Proje.exe
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\bin\Debug\Proje.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\bin\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\bin\Debug\CineTech.Library.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.exe.config
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmAdminPaneli.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmAnaSayfa.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmFilmDetay.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmFilmYonetimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmGiris.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmGiseSatis.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmKayitOl.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmKoltukSecimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmOdeme.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmPersonelPaneli.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmProfilim.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmRaporlar.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmSalonDurumu.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.frmSeansYonetimi.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.csproj.Up2Date
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.exe
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\Proje.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\Proje\obj\Debug\CineTech.frmPersonelYonetimi.resources
