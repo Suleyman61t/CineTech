@@ -1,0 +1,18 @@
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\bin\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\bin\Debug\CineTech.Library.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\obj\Debug\CineTech.Library.csproj.AssemblyReference.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\obj\Debug\CineTech.Library.csproj.CoreCompileInputs.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\obj\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\obj\Debug\CineTech.Library.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\bin\Debug\System.Data.SqlClient.xml
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\CineTech.Library\obj\Debug\CineTech.C0FAE706.Up2Date
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\bin\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\bin\Debug\CineTech.Library.pdb
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\bin\Debug\System.Data.SqlClient.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\bin\Debug\System.Data.SqlClient.xml
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\obj\Debug\CineTech.Library.csproj.AssemblyReference.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\obj\Debug\CineTech.Library.csproj.CoreCompileInputs.cache
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\obj\Debug\CineTech.C0FAE706.Up2Date
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\obj\Debug\CineTech.Library.dll
+C:\Users\61sul\OneDrive\Masaüstü\code\donem1\nesne\Proje(Ana Klasor)\CineTech.Library\obj\Debug\CineTech.Library.pdb
